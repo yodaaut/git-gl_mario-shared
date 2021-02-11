@@ -19,3 +19,4 @@ echo 2
 pause
 echo 1
 pause
+exit 0
