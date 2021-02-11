@@ -1,4 +1,4 @@
 # git-gl_mario-shared
 
 ## cool feature description
-new feature should work on windows only
+New feature should work on windows only.
